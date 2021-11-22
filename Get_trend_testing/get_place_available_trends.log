@@ -1,0 +1,81 @@
+INFO 2021-11-11 11:18:22,616 start crawl trending from india
+INFO 2021-11-11 11:18:22,616 394878
+INFO 2021-11-11 11:18:22,616 'API' object has no attribute 'trends_place'
+INFO 2021-11-11 11:20:42,959 start crawl trending from india
+INFO 2021-11-11 11:20:42,959 394878
+INFO 2021-11-11 11:20:42,959 'API' object has no attribute 'trends_place'
+INFO 2021-11-11 11:36:10,138 start crawl trending from india
+INFO 2021-11-11 11:36:10,138 394878
+INFO 2021-11-11 11:36:10,138 'API' object has no attribute 'trends_place'
+INFO 2021-11-11 11:38:35,773 start crawl trending from india
+INFO 2021-11-11 11:38:35,773 394878
+INFO 2021-11-11 11:38:35,773 'API' object has no attribute 'trends_place'
+INFO 2021-11-11 13:10:00,170 start crawl trending from india
+INFO 2021-11-11 13:10:00,170 394878
+INFO 2021-11-11 13:10:00,170 'API' object has no attribute 'trends_place'
+INFO 2021-11-11 13:15:09,108 start crawl trending from india
+INFO 2021-11-11 13:15:09,108 394878
+INFO 2021-11-11 13:15:09,108 'API' object has no attribute 'trends_place'
+INFO 2021-11-11 13:24:31,974 start crawl trending from india
+INFO 2021-11-11 13:24:32,661 394878
+INFO 2021-11-11 13:24:32,661 name 'xrange' is not defined
+INFO 2021-11-11 13:26:42,113 start crawl trending from india
+INFO 2021-11-11 13:26:42,874 394878
+INFO 2021-11-11 13:26:42,874 unsupported operand type(s) for >>: 'builtin_function_or_method' and '_io.TextIOWrapper'. Did you mean "print(<message>, file=<output_stream>)"?
+INFO 2021-11-11 13:28:47,280 start crawl trending from india
+INFO 2021-11-11 13:28:48,045 completed
+INFO 2021-11-11 13:28:48,045 start crawl trending from delhi
+INFO 2021-11-11 13:28:48,821 completed
+INFO 2021-11-11 13:28:48,821 start crawl trending from world
+INFO 2021-11-11 13:28:49,590 completed
+INFO 2021-11-11 14:53:12,893 start crawl trending from india
+INFO 2021-11-11 14:53:13,822 completed
+INFO 2021-11-11 14:53:13,822 start crawl trending from delhi
+INFO 2021-11-11 14:53:14,585 completed
+INFO 2021-11-11 14:53:14,585 start crawl trending from world
+INFO 2021-11-11 14:53:15,342 completed
+INFO 2021-11-11 14:55:57,473 start crawl trending from india
+INFO 2021-11-11 14:55:58,269 completed
+INFO 2021-11-11 14:55:58,269 start crawl trending from delhi
+INFO 2021-11-11 14:55:59,128 completed
+INFO 2021-11-11 14:55:59,128 start crawl trending from world
+INFO 2021-11-11 14:55:59,918 completed
+INFO 2021-11-11 14:56:44,386 start crawl trending from india
+INFO 2021-11-11 14:56:45,177 completed
+INFO 2021-11-11 14:56:45,177 start crawl trending from delhi
+INFO 2021-11-11 14:56:45,981 completed
+INFO 2021-11-11 14:56:45,981 start crawl trending from world
+INFO 2021-11-11 14:56:46,780 completed
+INFO 2021-11-11 14:58:16,522 start crawl trending from india
+INFO 2021-11-11 14:58:17,383 394878
+INFO 2021-11-11 14:58:17,383 can only concatenate str (not "list") to str
+INFO 2021-11-11 15:00:47,434 start crawl trending from india
+INFO 2021-11-11 15:00:48,253 completed
+INFO 2021-11-11 15:00:48,253 start crawl trending from delhi
+INFO 2021-11-11 15:00:49,009 completed
+INFO 2021-11-11 15:00:49,009 start crawl trending from world
+INFO 2021-11-11 15:00:49,760 completed
+INFO 2021-11-11 15:07:44,710 start crawl trending from india
+INFO 2021-11-11 15:07:45,467 completed
+INFO 2021-11-11 15:07:45,467 start crawl trending from delhi
+INFO 2021-11-11 15:07:46,223 completed
+INFO 2021-11-11 15:07:46,223 start crawl trending from world
+INFO 2021-11-11 15:07:46,983 completed
+INFO 2021-11-11 15:08:25,369 start crawl trending from india
+INFO 2021-11-11 15:08:26,123 completed
+INFO 2021-11-11 15:08:26,123 start crawl trending from delhi
+INFO 2021-11-11 15:08:26,879 completed
+INFO 2021-11-11 15:08:26,879 start crawl trending from world
+INFO 2021-11-11 15:08:27,631 completed
+INFO 2021-11-11 15:13:28,436 start crawl trending from india
+INFO 2021-11-11 15:13:29,065 completed
+INFO 2021-11-11 15:14:09,030 start crawl trending from india
+INFO 2021-11-11 15:14:09,664 completed
+INFO 2021-11-11 15:19:49,398 start crawl trending from india
+INFO 2021-11-11 15:19:50,204 completed
+INFO 2021-11-11 15:21:51,968 start crawl trending from india
+INFO 2021-11-11 15:21:52,604 completed
+INFO 2021-11-15 15:04:50,574 start crawl trending from india
+INFO 2021-11-15 15:04:51,287 394878
+INFO 2021-11-15 15:04:51,287 401 Unauthorized
+32 - Could not authenticate you.
